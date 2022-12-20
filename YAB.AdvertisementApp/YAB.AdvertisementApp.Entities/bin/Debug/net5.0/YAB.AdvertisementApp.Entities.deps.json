@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "YAB.AdvertisementApp.Entities/1.0.0": {
+        "runtime": {
+          "YAB.AdvertisementApp.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "YAB.AdvertisementApp.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

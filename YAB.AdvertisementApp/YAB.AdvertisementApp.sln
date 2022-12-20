@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YAB.AdvertisementApp.Common", "YAB.AdvertisementApp.Common\YAB.AdvertisementApp.Common.csproj", "{0CC1E8D1-2E12-4345-81D9-00393ACADD2A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YAB.AdvertisementApp.Entities", "YAB.AdvertisementApp.Entities\YAB.AdvertisementApp.Entities.csproj", "{17A8C635-7618-4B6F-8A14-970B8FEE504A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YAB.AdvertisementApp.DataAccess", "YAB.AdvertisementApp.DataAccess\YAB.AdvertisementApp.DataAccess.csproj", "{1A849F7A-999A-489B-A4B3-1F52E4388D95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YAB.AdvertisementApp.Business", "YAB.AdvertisementApp.Business\YAB.AdvertisementApp.Business.csproj", "{DCC92985-8CCB-44DF-BF5C-17FF62A386EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YAB.AdvertisementApp.UI", "YAB.AdvertisementApp.UI\YAB.AdvertisementApp.UI.csproj", "{9F5AB106-14DF-4522-96D9-57DA5DC03044}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YAB.AdvertisementApp.Dtos", "YAB.AdvertisementApp.Dtos\YAB.AdvertisementApp.Dtos.csproj", "{2E27E2FA-F50B-4BB7-8E9D-80E2D1181745}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CC1E8D1-2E12-4345-81D9-00393ACADD2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC1E8D1-2E12-4345-81D9-00393ACADD2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CC1E8D1-2E12-4345-81D9-00393ACADD2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CC1E8D1-2E12-4345-81D9-00393ACADD2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17A8C635-7618-4B6F-8A14-970B8FEE504A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A8C635-7618-4B6F-8A14-970B8FEE504A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A8C635-7618-4B6F-8A14-970B8FEE504A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A8C635-7618-4B6F-8A14-970B8FEE504A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A849F7A-999A-489B-A4B3-1F52E4388D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A849F7A-999A-489B-A4B3-1F52E4388D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A849F7A-999A-489B-A4B3-1F52E4388D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A849F7A-999A-489B-A4B3-1F52E4388D95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCC92985-8CCB-44DF-BF5C-17FF62A386EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC92985-8CCB-44DF-BF5C-17FF62A386EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC92985-8CCB-44DF-BF5C-17FF62A386EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC92985-8CCB-44DF-BF5C-17FF62A386EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F5AB106-14DF-4522-96D9-57DA5DC03044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F5AB106-14DF-4522-96D9-57DA5DC03044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F5AB106-14DF-4522-96D9-57DA5DC03044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F5AB106-14DF-4522-96D9-57DA5DC03044}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E27E2FA-F50B-4BB7-8E9D-80E2D1181745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E27E2FA-F50B-4BB7-8E9D-80E2D1181745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E27E2FA-F50B-4BB7-8E9D-80E2D1181745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E27E2FA-F50B-4BB7-8E9D-80E2D1181745}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F51116C0-9E5C-480D-9B90-3960F7B846CD}
+	EndGlobalSection
+EndGlobal

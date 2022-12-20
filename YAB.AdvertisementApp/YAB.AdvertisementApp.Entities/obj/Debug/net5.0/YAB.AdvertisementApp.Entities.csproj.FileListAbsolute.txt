@@ -1,0 +1,12 @@
+C:\Users\yusuf\source\repos\YAB.AdvertisementApp\YAB.AdvertisementApp.Entities\bin\Debug\net5.0\YAB.AdvertisementApp.Entities.deps.json
+C:\Users\yusuf\source\repos\YAB.AdvertisementApp\YAB.AdvertisementApp.Entities\bin\Debug\net5.0\YAB.AdvertisementApp.Entities.dll
+C:\Users\yusuf\source\repos\YAB.AdvertisementApp\YAB.AdvertisementApp.Entities\bin\Debug\net5.0\YAB.AdvertisementApp.Entities.pdb
+C:\Users\yusuf\source\repos\YAB.AdvertisementApp\YAB.AdvertisementApp.Entities\obj\Debug\net5.0\YAB.AdvertisementApp.Entities.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\YAB.AdvertisementApp\YAB.AdvertisementApp.Entities\obj\Debug\net5.0\YAB.AdvertisementApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\YAB.AdvertisementApp\YAB.AdvertisementApp.Entities\obj\Debug\net5.0\YAB.AdvertisementApp.Entities.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\YAB.AdvertisementApp\YAB.AdvertisementApp.Entities\obj\Debug\net5.0\YAB.AdvertisementApp.Entities.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\YAB.AdvertisementApp\YAB.AdvertisementApp.Entities\obj\Debug\net5.0\YAB.AdvertisementApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\YAB.AdvertisementApp\YAB.AdvertisementApp.Entities\obj\Debug\net5.0\YAB.AdvertisementApp.Entities.dll
+C:\Users\yusuf\source\repos\YAB.AdvertisementApp\YAB.AdvertisementApp.Entities\obj\Debug\net5.0\refint\YAB.AdvertisementApp.Entities.dll
+C:\Users\yusuf\source\repos\YAB.AdvertisementApp\YAB.AdvertisementApp.Entities\obj\Debug\net5.0\YAB.AdvertisementApp.Entities.pdb
+C:\Users\yusuf\source\repos\YAB.AdvertisementApp\YAB.AdvertisementApp.Entities\obj\Debug\net5.0\ref\YAB.AdvertisementApp.Entities.dll

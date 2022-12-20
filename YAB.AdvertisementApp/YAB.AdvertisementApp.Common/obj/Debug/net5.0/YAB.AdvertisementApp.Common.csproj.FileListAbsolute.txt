@@ -1,0 +1,12 @@
+C:\Users\yusuf\source\repos\YAB.AdvertisementApp\YAB.AdvertisementApp.Common\bin\Debug\net5.0\YAB.AdvertisementApp.Common.deps.json
+C:\Users\yusuf\source\repos\YAB.AdvertisementApp\YAB.AdvertisementApp.Common\bin\Debug\net5.0\YAB.AdvertisementApp.Common.dll
+C:\Users\yusuf\source\repos\YAB.AdvertisementApp\YAB.AdvertisementApp.Common\bin\Debug\net5.0\YAB.AdvertisementApp.Common.pdb
+C:\Users\yusuf\source\repos\YAB.AdvertisementApp\YAB.AdvertisementApp.Common\obj\Debug\net5.0\YAB.AdvertisementApp.Common.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\YAB.AdvertisementApp\YAB.AdvertisementApp.Common\obj\Debug\net5.0\YAB.AdvertisementApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\YAB.AdvertisementApp\YAB.AdvertisementApp.Common\obj\Debug\net5.0\YAB.AdvertisementApp.Common.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\YAB.AdvertisementApp\YAB.AdvertisementApp.Common\obj\Debug\net5.0\YAB.AdvertisementApp.Common.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\YAB.AdvertisementApp\YAB.AdvertisementApp.Common\obj\Debug\net5.0\YAB.AdvertisementApp.Common.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\YAB.AdvertisementApp\YAB.AdvertisementApp.Common\obj\Debug\net5.0\YAB.AdvertisementApp.Common.dll
+C:\Users\yusuf\source\repos\YAB.AdvertisementApp\YAB.AdvertisementApp.Common\obj\Debug\net5.0\refint\YAB.AdvertisementApp.Common.dll
+C:\Users\yusuf\source\repos\YAB.AdvertisementApp\YAB.AdvertisementApp.Common\obj\Debug\net5.0\YAB.AdvertisementApp.Common.pdb
+C:\Users\yusuf\source\repos\YAB.AdvertisementApp\YAB.AdvertisementApp.Common\obj\Debug\net5.0\ref\YAB.AdvertisementApp.Common.dll
